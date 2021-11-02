@@ -1,0 +1,9 @@
+D:\Documents\TopicosSelectosIA\OriginalMonopoly\Monopoly\Monopoly\obj\x86\Release\Monopoly.csproj.AssemblyReference.cache
+D:\Documents\TopicosSelectosIA\OriginalMonopoly\Monopoly\Monopoly\obj\x86\Release\MainWindow.baml
+D:\Documents\TopicosSelectosIA\OriginalMonopoly\Monopoly\Monopoly\obj\x86\Release\MainWindow.g.cs
+D:\Documents\TopicosSelectosIA\OriginalMonopoly\Monopoly\Monopoly\obj\x86\Release\App.g.cs
+D:\Documents\TopicosSelectosIA\OriginalMonopoly\Monopoly\Monopoly\obj\x86\Release\Monopoly_MarkupCompile.cache
+D:\Documents\TopicosSelectosIA\OriginalMonopoly\Monopoly\Monopoly\obj\x86\Release\Monopoly.g.resources
+D:\Documents\TopicosSelectosIA\OriginalMonopoly\Monopoly\Monopoly\obj\x86\Release\Monopoly.Properties.Resources.resources
+D:\Documents\TopicosSelectosIA\OriginalMonopoly\Monopoly\Monopoly\obj\x86\Release\Monopoly.csproj.GenerateResource.cache
+D:\Documents\TopicosSelectosIA\OriginalMonopoly\Monopoly\Monopoly\obj\x86\Release\Monopoly.csproj.CoreCompileInputs.cache
